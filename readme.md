@@ -1,5 +1,5 @@
 #  Jumia Food Web Scraped
-This program scrapes Jumia food for for data on all vendors, and scrape menu details for a chosen vendor.
+This program scrapes Jumia food for data on all vendors, and scrape menu details for a chosen vendor.
 
 ## Getting started   
 ### Installation
